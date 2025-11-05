@@ -8,8 +8,10 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
+  - statsmodels
+  - patsy
+  - seaborn      
   - pip
   - pip:
-      - seaborn
       - openpyxl
       - requests
