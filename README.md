@@ -7,9 +7,7 @@
 ---
 
 ### Summary
-This project analyzes how changes in Lake Mead’s elevation influence California’s water diversions and consumptive use from 2000 to 2024.  
-Using U.S. Bureau of Reclamation data, it quantifies how federally defined shortage tiers translate upstream hydrologic variability into downstream water-use responses.  
-Through correlation, lag, and piecewise regression analyses the study reveals how shifts in Lake Mead’s elevation shape California’s water allocation under changing hydrologic and policy conditions.
+This project explores the relationship between Lake Mead water levels and California’s consumptive use of Colorado River water from 2000–2024. Using publicly available elevation and water-use datasets, the analysis evaluates how fluctuations in reservoir storage influence state-level water-use behavior. Methods include correlation and lag testing, response elasticity analysis, and before-and-after comparisons around major policy milestones. Results provide insight into how hydrologic shifts and management actions interact to shape California’s water use under increasing scarcity.
 
 
 ---
