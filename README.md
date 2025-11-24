@@ -1,5 +1,8 @@
 # Linking Lake Mead Elevation to California’s Water Diversions and Consumptive Use (2000–2024)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmnaOmer1/LakeMead_ImperialDam_Omer/main?urlpath=lab/tree/LakeMead_ImperialDam_Analysis.ipynb)
+
+
 **Author:** Amna Omer  
 **Date:** October 23, 2025  
 **License:** MIT License  
